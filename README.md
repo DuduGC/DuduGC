@@ -3,7 +3,7 @@
 <h3 align="center">Engenheiro de Dados</h3>
 
 <p align="center">
-  🎓 Estudante de tecnologia • 🔎 Buscando minha primeira oportunidade como Engenheiro de Dados Júnior
+  🎓 Estudante de tecnologia • 🔎 Buscando minha primeira oportunidade como estagiário na área de Dados.
 </p>
 
 ---
