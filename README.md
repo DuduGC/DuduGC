@@ -20,7 +20,7 @@ Atualmente estou desenvolvendo conhecimentos em **Python, PostgreSQL, Docker, AW
 
 ## 🛠️ Tecnologias e ferramentas
 
-### 📊 Dados e programação
+### 📊 Linguagens de programação e Banco de Dados
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
