@@ -12,9 +12,9 @@
 
 Sou estudante de tecnologia com foco em **Engenharia de Dados**.
 
-Gosto de **resolver problemas, automatizar tarefas e trabalhar com dados**, buscando desenvolver soluções eficientes e transformar dados brutos em informações úteis.
+Gosto de automatizar tarefas e trabalhar com dados, buscando desenvolver soluções eficientes e transformar dados brutos em informações úteis.
 
-Atualmente estou desenvolvendo conhecimentos em **Python, PostgreSQL, Docker, AWS, Linux e Git**, enquanto avanço no estudo das principais tecnologias utilizadas no ecossistema moderno de dados.
+Atualmente estou desenvolvendo conhecimentos em **Python, PostgreSQL, Docker, AWS e Git**, enquanto avanço no estudo das principais tecnologias utilizadas no ecossistema moderno de dados.
 
 ---
 
