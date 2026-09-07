@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou Eduardo José (Dudu) 👋</h1>
+<h1 align="center">Olá! Eu sou Eduardo José (Dudu)</h1>
 
 <h3 align="center">Engenheiro de Dados</h3>
 
@@ -18,7 +18,7 @@ Atualmente estou desenvolvendo conhecimentos em **Python, PostgreSQL, Docker, AW
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 ### 📊 Linguagens de programação e Banco de Dados
 
@@ -49,7 +49,7 @@ Atualmente estou desenvolvendo conhecimentos em **Python, PostgreSQL, Docker, AW
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
 Estou expandindo meus conhecimentos para ferramentas utilizadas em pipelines, processamento, transformação e orquestração de dados.
 
@@ -64,7 +64,7 @@ Estou expandindo meus conhecimentos para ferramentas utilizadas em pipelines, pr
 
 ---
 
-## 🧠 Áreas de interesse
+##  Áreas de interesse
 
 ```text
 Data Engineering
