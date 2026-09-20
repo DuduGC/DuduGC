@@ -14,7 +14,7 @@ Sou estudante de tecnologia com foco em **Engenharia de Dados**.
 
 Gosto de automatizar tarefas e trabalhar com dados, buscando desenvolver soluções eficientes e transformar dados brutos em informações úteis.
 
-Atualmente estou desenvolvendo conhecimentos em **Python, PostgreSQL, Docker, AWS e Git**, enquanto avanço no estudo das principais tecnologias utilizadas no ecossistema moderno de dados.
+Atualmente estou aprofundando meus conhecimentos em **Python, PostgreSQL, Docker, Apache Kafka, Apache Airflow, dbt e Github Actions**, para a construção de pipelines de dados mais próximas das utilizadas em ambientes profissionais.
 
 ---
 
@@ -36,6 +36,8 @@ Atualmente estou desenvolvendo conhecimentos em **Python, PostgreSQL, Docker, AW
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
 </p>
 
 ### 🌐 Desenvolvimento Web
@@ -50,13 +52,11 @@ Atualmente estou desenvolvendo conhecimentos em **Python, PostgreSQL, Docker, AW
 
 ##  Atualmente estudando
 
-Estou expandindo meus conhecimentos para ferramentas utilizadas em pipelines, processamento, transformação e orquestração de dados.
+Estou expandindo meus conhecimentos para ferramentas utilizadas em pipelines, processamento, transformação de dados.
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
