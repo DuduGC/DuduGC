@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de tecnologia com foco em **Engenharia de Dados**.
+Sou estudante de tecnologia com foco em **Engenharia de Dados e Automação de Processos**.
 
 Gosto de automatizar tarefas e trabalhar com dados, buscando desenvolver soluções eficientes e transformar dados brutos em informações úteis.
 
