@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou Eduardo José (Dudu)</h1>
 
-<h3 align="center">Engenheiro de Dados</h3>
+<h3 align="center">Engenheiro de Dados e Automação de Processoas</h3>
 
 <p align="center">
   🎓 Estudante de tecnologia • 🔎 Buscando minha primeira oportunidade como estagiário na área de Dados.
