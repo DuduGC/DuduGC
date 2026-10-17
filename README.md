@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 Sou estudante de tecnologia com foco em **Engenharia de Dados e Automação de Processos**.
 
@@ -20,7 +20,7 @@ Atualmente estou aprofundando meus conhecimentos em **Python, PostgreSQL, Docker
 
 ##  Tecnologias e ferramentas
 
-### 📊 Linguagens de programação e Banco de Dados
+###  Linguagens de programação e Banco de Dados
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -29,7 +29,7 @@ Atualmente estou aprofundando meus conhecimentos em **Python, PostgreSQL, Docker
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-###  DevOps e ferramentas
+###  Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -53,7 +53,7 @@ Atualmente estou aprofundando meus conhecimentos em **Python, PostgreSQL, Docker
 
 ##  Atualmente estudando
 
-Estou expandindo meus conhecimentos para ferramentas utilizadas em pipelines, processamento, transformação de dados.
+Estou expandindo meus conhecimentos para ferramentas utilizadas em pipelines, processamento, transformação de dados e infraestrutura.
 
 <p>
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
