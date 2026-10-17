@@ -14,7 +14,7 @@ Sou estudante de tecnologia com foco em **Engenharia de Dados e Automação de P
 
 Gosto de automatizar tarefas e trabalhar com dados, buscando desenvolver soluções eficientes e transformar dados brutos em informações úteis.
 
-Atualmente estou aprofundando meus conhecimentos em **Python, PostgreSQL, Docker, Apache Kafka, Apache Airflow, dbt e Github Actions**, para a construção de pipelines de dados mais próximas das utilizadas em ambientes profissionais.
+Atualmente estou aprofundando meus conhecimentos em **Python, PostgreSQL, Docker, Apache Kafka, Apache Airflow, dbt e Cloud**, para a construção de pipelines de dados mais próximas das utilizadas em ambientes profissionais.
 
 ---
 
