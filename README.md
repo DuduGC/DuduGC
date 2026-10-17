@@ -51,7 +51,7 @@ Atualmente estou aprofundando meus conhecimentos em **Python, PostgreSQL, Docker
 
 ---
 
-##  Atualmente estudando
+##  Adquirindo conhecimento
 
 Estou expandindo meus conhecimentos para ferramentas utilizadas em pipelines, processamento, transformação de dados e infraestrutura.
 
