@@ -10,11 +10,15 @@
 
 ##  Sobre mim
 
-Sou estudante de tecnologia com foco em **Engenharia de Dados e Automação de Processos**.
+### Sobre mim
 
-Gosto de automatizar tarefas e trabalhar com dados, buscando desenvolver soluções eficientes e transformar dados brutos em informações úteis.
+Sou estudante de Tecnologia da Informação, com foco em **Engenharia de Dados**, e direciono meu desenvolvimento profissional à construção de soluções de dados eficientes, escaláveis e confiáveis.
 
-Atualmente estou aprofundando meus conhecimentos em **Python, PostgreSQL, Docker, Apache Kafka, Apache Airflow, dbt e Cloud**, para a construção de pipelines de dados mais próximas das utilizadas em ambientes profissionais.
+Possuo experiência prática em projetos que envolvem **Python, Bancos de dados SQL (PostgreSQL, MySQL), Apache Airflow, dbt, Apache Kafka, Apache Spark e Databricks,**. Minhas competências abrangem o desenvolvimento de pipelines ETL/ELT, integração com APIs REST, processamento e transformação de dados, modelagem de dados, orquestração de workflows e implementação da arquitetura Medallion.
+
+Priorizo a aplicação de boas práticas de engenharia de software e governança de dados, com ênfase em qualidade, automação, testes, otimização de desempenho e manutenção de soluções.
+
+Busco oportunidades para contribuir com projetos de tecnologia e dados, aplicando meus conhecimentos técnicos, desenvolvendo novas competências e gerando valor por meio de soluções orientadas a dados.
 
 ---
 
@@ -39,6 +43,8 @@ Atualmente estou aprofundando meus conhecimentos em **Python, PostgreSQL, Docker
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
   <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" alt="Apache Flink"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
 </p>
 
 ### 🌐 Desenvolvimento Web
@@ -58,8 +64,6 @@ Estou expandindo meus conhecimentos para ferramentas utilizadas em pipelines, pr
 <p>
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
