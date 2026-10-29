@@ -22,7 +22,7 @@ Busco oportunidades para contribuir com projetos de tecnologia e dados, aplicand
 
 ---
 
-##  Tecnologias e ferramentas
+##  Tecnologias
 
 ###  Linguagens de programação e Banco de Dados
 
