@@ -10,7 +10,6 @@
 
 ##  Sobre mim
 
-### Sobre mim
 
 Sou estudante de Tecnologia da Informação, com foco em **Engenharia de Dados**, e direciono meu desenvolvimento profissional à construção de soluções de dados eficientes, escaláveis e confiáveis.
 
