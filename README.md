@@ -36,7 +36,6 @@ Busco oportunidades para contribuir com projetos de tecnologia e dados, aplicand
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
@@ -44,14 +43,15 @@ Busco oportunidades para contribuir com projetos de tecnologia e dados, aplicand
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
 </p>
 
-###  Ambientes de desenvolvimento
+###  Ambientes de desenvolvimento e Infraestrutura
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
 </p>
 
-### 🌐 Web Full-Stack
+###  Web Full-Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -61,7 +61,7 @@ Busco oportunidades para contribuir com projetos de tecnologia e dados, aplicand
 
 ---
 
-##  Adquirindo conhecimento
+##  Em desenvolvimento...
 
 Estou expandindo meus conhecimentos para ferramentas utilizadas em pipelines, processamento, transformação de dados e infraestrutura.
 
